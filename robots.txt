@@ -1,0 +1,4 @@
+sitemap: http://helou.paris/sitemap.xml
+
+User-agent: *
+Allow: /
